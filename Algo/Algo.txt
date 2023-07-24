@@ -2,3 +2,5 @@ Decide Which business to order pizza from.
 Decide which pizza you would like to order.
 Decide to have the piza delivered or carry out.
 Serve pizza and enjoy!
+Save leftover pizza and refrigerate for later.
+Dispose or recycle pizza box.
